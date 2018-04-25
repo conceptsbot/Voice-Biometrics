@@ -1,0 +1,7 @@
+(ComputeTest) No Channel Compensation
+Compute Test, Decime mode[1] File Mode- 1 LLR by file
+test seg[arun_1_test]
+test seg[arun_2_test]
+Warning File[arun_3_test], Truncate Segment begin:3074 length:21 file size:3094 new length:20
+test seg[arun_3_test]
+test seg[pavan4_test]

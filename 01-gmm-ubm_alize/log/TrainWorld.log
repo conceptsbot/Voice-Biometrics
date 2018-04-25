@@ -1,0 +1,402 @@
+Begin world model training
+(SegTools) >> Proceeding label file reading for [1091170-anurag-1] <<
+(SegTools) >> Proceeding label file reading for [1091170-anurag-3] <<
+(SegTools) >> Proceeding label file reading for [1091170-anurag-4] <<
+(SegTools) >> Proceeding label file reading for [1095563_sumit_1] <<
+(SegTools) >> Proceeding label file reading for [1095563_sumit_3] <<
+(SegTools) >> Proceeding label file reading for [1095563_sumit_4] <<
+(SegTools) >> Proceeding label file reading for [1096980_hema_1] <<
+(SegTools) >> Proceeding label file reading for [1096980_hema_2] <<
+(SegTools) >> Proceeding label file reading for [1096980_hema_3] <<
+(SegTools) >> Proceeding label file reading for [1096980_hema_4] <<
+(SegTools) >> Proceeding label file reading for [1099235-minu-1] <<
+(SegTools) >> Proceeding label file reading for [1099235-minu-3] <<
+(SegTools) >> Proceeding label file reading for [1099235-minu-4] <<
+(SegTools) >> Proceeding label file reading for [1113623-1] <<
+(SegTools) >> Proceeding label file reading for [1113623-2] <<
+(SegTools) >> Proceeding label file reading for [1113623-3] <<
+(SegTools) >> Proceeding label file reading for [1114131-1] <<
+(SegTools) >> Proceeding label file reading for [1114131-2] <<
+(SegTools) >> Proceeding label file reading for [1114131-3] <<
+(SegTools) >> Proceeding label file reading for [1119712_sush_1] <<
+(SegTools) >> Proceeding label file reading for [1119712_sush_2] <<
+(SegTools) >> Proceeding label file reading for [1119712_sush_3] <<
+(SegTools) >> Proceeding label file reading for [1119712_sush_4] <<
+(SegTools) >> Proceeding label file reading for [1119721_manasa_1] <<
+(SegTools) >> Proceeding label file reading for [1119721_manasa_2] <<
+(SegTools) >> Proceeding label file reading for [1119721_manasa_3] <<
+(SegTools) >> Proceeding label file reading for [1119721_manasa_4] <<
+(SegTools) >> Proceeding label file reading for [1128591-1] <<
+(SegTools) >> Proceeding label file reading for [1128591-2] <<
+(SegTools) >> Proceeding label file reading for [1128591-3] <<
+(SegTools) >> Proceeding label file reading for [1131593-1] <<
+(SegTools) >> Proceeding label file reading for [1131593-2] <<
+(SegTools) >> Proceeding label file reading for [1186311_3] <<
+(SegTools) >> Proceeding label file reading for [1186311_shreya_4] <<
+(SegTools) >> Proceeding label file reading for [1186830_rohan_1] <<
+(SegTools) >> Proceeding label file reading for [1187153_nitya_1] <<
+(SegTools) >> Proceeding label file reading for [1187153_nitya_2] <<
+(SegTools) >> Proceeding label file reading for [1187153_nitya_3] <<
+(SegTools) >> Proceeding label file reading for [1187153_nitya_4] <<
+(SegTools) >> Proceeding label file reading for [1192227_2] <<
+(SegTools) >> Proceeding label file reading for [1192227_tanayjoshi_2] <<
+(SegTools) >> Proceeding label file reading for [1192227_tanayjoshi] <<
+(SegTools) >> Proceeding label file reading for [1192520-1] <<
+(SegTools) >> Proceeding label file reading for [1192520-2] <<
+(SegTools) >> Proceeding label file reading for [1192520-3] <<
+(SegTools) >> Proceeding label file reading for [1193551-1] <<
+(SegTools) >> Proceeding label file reading for [1193551-2] <<
+(SegTools) >> Proceeding label file reading for [1193551-3] <<
+(SegTools) >> Proceeding label file reading for [1194339-sam-2] <<
+(SegTools) >> Proceeding label file reading for [1194339-sam-3] <<
+(SegTools) >> Proceeding label file reading for [1194937_shaun_1] <<
+(SegTools) >> Proceeding label file reading for [1194937_shaun_2] <<
+(SegTools) >> Proceeding label file reading for [1195365-1] <<
+(SegTools) >> Proceeding label file reading for [1195365-2] <<
+(SegTools) >> Proceeding label file reading for [1195365-3] <<
+(SegTools) >> Proceeding label file reading for [1195431-1] <<
+(SegTools) >> Proceeding label file reading for [1195431-2] <<
+(SegTools) >> Proceeding label file reading for [1195431-3] <<
+(SegTools) >> Proceeding label file reading for [1197072-mukesh-1] <<
+(SegTools) >> Proceeding label file reading for [1197072-mukesh-2] <<
+(SegTools) >> Proceeding label file reading for [1197072-mukesh-3] <<
+(SegTools) >> Proceeding label file reading for [1197072-mukesh-4] <<
+(SegTools) >> Proceeding label file reading for [1199566-amba-1] <<
+(SegTools) >> Proceeding label file reading for [1199566-amba-2] <<
+(SegTools) >> Proceeding label file reading for [1199566-amba-3] <<
+(SegTools) >> Proceeding label file reading for [1199566-amba-4] <<
+(SegTools) >> Proceeding label file reading for [1199872_anirudh_1] <<
+(SegTools) >> Proceeding label file reading for [1199872_anirudh_3] <<
+(SegTools) >> Proceeding label file reading for [1199872_anirudh_4] <<
+(SegTools) >> Proceeding label file reading for [1204702_manoj_1] <<
+(SegTools) >> Proceeding label file reading for [1204702_manoj_4] <<
+(SegTools) >> Proceeding label file reading for [1204738_nikhil_1] <<
+(SegTools) >> Proceeding label file reading for [1204738_nikhil_2] <<
+(SegTools) >> Proceeding label file reading for [1204738_nikhil_3] <<
+(SegTools) >> Proceeding label file reading for [1204738_nikhil_4] <<
+(SegTools) >> Proceeding label file reading for [1205490_diva_3] <<
+(SegTools) >> Proceeding label file reading for [1205490_diva-4] <<
+(SegTools) >> Proceeding label file reading for [1208874-dixcha-1] <<
+(SegTools) >> Proceeding label file reading for [1208874-dixcha-2] <<
+(SegTools) >> Proceeding label file reading for [1208874-dixcha-3] <<
+(SegTools) >> Proceeding label file reading for [1208874-dixcha-4] <<
+(SegTools) >> Proceeding label file reading for [1209020-1] <<
+(SegTools) >> Proceeding label file reading for [1209020-2] <<
+(SegTools) >> Proceeding label file reading for [1209020-3] <<
+(SegTools) >> Proceeding label file reading for [1213361-1] <<
+(SegTools) >> Proceeding label file reading for [1213361-2] <<
+(SegTools) >> Proceeding label file reading for [1213361-3] <<
+(SegTools) >> Proceeding label file reading for [1216465-1] <<
+(SegTools) >> Proceeding label file reading for [1216465-2] <<
+(SegTools) >> Proceeding label file reading for [1216465-3] <<
+(SegTools) >> Proceeding label file reading for [1219188_3] <<
+(SegTools) >> Proceeding label file reading for [1287171-1] <<
+(SegTools) >> Proceeding label file reading for [1287171-2] <<
+(SegTools) >> Proceeding label file reading for [1287171-3] <<
+(SegTools) >> Proceeding label file reading for [1290608_akshay_1] <<
+(SegTools) >> Proceeding label file reading for [1290608_akshay_2] <<
+(SegTools) >> Proceeding label file reading for [1290608_akshay_3] <<
+(SegTools) >> Proceeding label file reading for [1290608_akshay_4] <<
+(SegTools) >> Proceeding label file reading for [1290701_mayu_1] <<
+(SegTools) >> Proceeding label file reading for [1290701_mayu_3] <<
+(SegTools) >> Proceeding label file reading for [1290701_mayu_4] <<
+(SegTools) >> Proceeding label file reading for [129220-1] <<
+(SegTools) >> Proceeding label file reading for [129220-2] <<
+(SegTools) >> Proceeding label file reading for [129220-3] <<
+(SegTools) >> Proceeding label file reading for [1293902-rahul-1] <<
+(SegTools) >> Proceeding label file reading for [1293902-rahul-2] <<
+(SegTools) >> Proceeding label file reading for [1293902-rahul-3] <<
+(SegTools) >> Proceeding label file reading for [1293902_rahul_4] <<
+(SegTools) >> Proceeding label file reading for [1293950_shub_2] <<
+(SegTools) >> Proceeding label file reading for [1293950_shub_3] <<
+(SegTools) >> Proceeding label file reading for [1293950_shub_4] <<
+(SegTools) >> Proceeding label file reading for [1295128-jeba-1] <<
+(SegTools) >> Proceeding label file reading for [1296648_arch_2] <<
+(SegTools) >> Proceeding label file reading for [1296648_arch_3] <<
+(SegTools) >> Proceeding label file reading for [1297118-mel-1] <<
+(SegTools) >> Proceeding label file reading for [1297118-mel-4] <<
+(SegTools) >> Proceeding label file reading for [1297905_1] <<
+(SegTools) >> Proceeding label file reading for [1297905_3] <<
+(SegTools) >> Proceeding label file reading for [1297905_ryan_4] <<
+(SegTools) >> Proceeding label file reading for [1299648_arch_4] <<
+(SegTools) >> Proceeding label file reading for [1325177-1] <<
+(SegTools) >> Proceeding label file reading for [1325177-2] <<
+(SegTools) >> Proceeding label file reading for [1325177-3] <<
+Warning File[1290701_mayu_3], Truncate Segment begin:7646 length:9 file size:7654 new length:8
+Stream mode, nb Stream=1
+Compute global mean and cov
+global mean and cov of training data, number of frame= [451814]
+mean[0=-3.51214e-11]	cov[1]
+mean[1=-5.69491e-12]	cov[1]
+mean[2=-3.10224e-11]	cov[1]
+mean[3=-2.9633e-11]	cov[1]
+mean[4=-1.15675e-11]	cov[1]
+mean[5=-5.47966e-11]	cov[1]
+mean[6=6.27472e-13]	cov[1]
+mean[7=-2.73615e-11]	cov[1]
+mean[8=6.04976e-11]	cov[1]
+mean[9=2.98322e-11]	cov[1]
+mean[10=-7.02887e-11]	cov[1]
+mean[11=1.22948e-11]	cov[1]
+mean[12=-1.57493e-11]	cov[1]
+mean[13=4.8021e-11]	cov[1]
+mean[14=-1.39884e-11]	cov[1]
+mean[15=4.89304e-11]	cov[1]
+mean[16=-7.1715e-11]	cov[1]
+mean[17=-6.34251e-12]	cov[1]
+mean[18=-3.65023e-11]	cov[1]
+mean[19=-1.99267e-11]	cov[1]
+mean[20=-1.34619e-11]	cov[1]
+mean[21=3.59469e-12]	cov[1]
+mean[22=6.08083e-11]	cov[1]
+mean[23=-4.24966e-11]	cov[1]
+mean[24=4.50719e-11]	cov[1]
+mean[25=1.95595e-11]	cov[1]
+mean[26=-1.04762e-11]	cov[1]
+mean[27=9.17639e-11]	cov[1]
+mean[28=3.93398e-11]	cov[1]
+mean[29=3.93198e-11]	cov[1]
+mean[30=8.2895e-11]	cov[1]
+mean[31=-6.13278e-11]	cov[1]
+mean[32=8.29281e-11]	cov[1]
+mean[33=-4.1488e-11]	cov[1]
+mean[34=1.09186e-11]	cov[1]
+mean[35=1.26186e-11]	cov[1]
+mean[36=2.16813e-12]	cov[1]
+mean[37=-6.27092e-12]	cov[1]
+mean[38=8.21874e-11]	cov[1]
+mean[39=4.76627e-11]	cov[1]
+mean[40=1.82049e-11]	cov[1]
+mean[41=3.2159e-11]	cov[1]
+mean[42=-3.15729e-11]	cov[1]
+mean[43=8.59043e-12]	cov[1]
+mean[44=8.99307e-12]	cov[1]
+mean[45=3.99484e-11]	cov[1]
+mean[46=5.66104e-11]	cov[1]
+mean[47=1.1147e-11]	cov[1]
+mean[48=-1.85135e-11]	cov[1]
+mean[49=7.22081e-11]	cov[1]
+mean[50=7.5704e-12]	cov[1]
+mean[51=2.52288e-11]	cov[1]
+mean[52=-8.22823e-12]	cov[1]
+mean[53=1.29275e-11]	cov[1]
+mean[54=-1.76578e-11]	cov[1]
+mean[55=-4.32198e-11]	cov[1]
+mean[56=-7.15236e-11]	cov[1]
+mean[57=1.33658e-11]	cov[1]
+mean[58=3.87232e-11]	cov[1]
+mean[59=4.59989e-11]	cov[1]
+mean[60=-1.74831e-11]	cov[1]
+mean[61=-5.84139e-11]	cov[1]
+mean[62=1.46501e-11]	cov[1]
+mean[63=-3.09682e-11]	cov[1]
+mean[64=1.45912e-11]	cov[1]
+mean[65=-7.49957e-11]	cov[1]
+mean[66=-1.67149e-11]	cov[1]
+mean[67=4.03972e-11]	cov[1]
+mean[68=-7.49301e-11]	cov[1]
+mean[69=-1.5422e-11]	cov[1]
+mean[70=1.36698e-11]	cov[1]
+mean[71=-6.08083e-11]	cov[1]
+mean[72=2.82322e-11]	cov[1]
+mean[73=6.02993e-11]	cov[1]
+mean[74=-6.47706e-12]	cov[1]
+World model init from scratch
+begin of mixtureInit
+baggedMinimalLength[3] MaximalLength[10]
+mixtureInit, total frames with stream weighting[451814] total frame to select by component[100]
+bagged proba init ok
+Init Stream[0] Bagged by comp=0.00022133 It[0]
+Bagged segments, Initial frames[451814] Selected frames[6173] % selected[1.36627]
+Initialize model
+Nb Frame for mean[0] init =[70]
+Nb Frame for mean[1] init =[88]
+Nb Frame for mean[2] init =[82]
+Nb Frame for mean[3] init =[64]
+Nb Frame for mean[4] init =[120]
+Nb Frame for mean[5] init =[100]
+Nb Frame for mean[6] init =[74]
+Nb Frame for mean[7] init =[62]
+Nb Frame for mean[8] init =[100]
+Nb Frame for mean[9] init =[117]
+Nb Frame for mean[10] init =[119]
+Nb Frame for mean[11] init =[97]
+Nb Frame for mean[12] init =[169]
+Nb Frame for mean[13] init =[135]
+Nb Frame for mean[14] init =[71]
+Nb Frame for mean[15] init =[139]
+Nb Frame for mean[16] init =[101]
+Nb Frame for mean[17] init =[72]
+Nb Frame for mean[18] init =[44]
+Nb Frame for mean[19] init =[105]
+Nb Frame for mean[20] init =[119]
+Nb Frame for mean[21] init =[129]
+Nb Frame for mean[22] init =[98]
+Nb Frame for mean[23] init =[63]
+Nb Frame for mean[24] init =[101]
+Nb Frame for mean[25] init =[107]
+Nb Frame for mean[26] init =[37]
+Nb Frame for mean[27] init =[89]
+Nb Frame for mean[28] init =[88]
+Nb Frame for mean[29] init =[101]
+Nb Frame for mean[30] init =[76]
+Nb Frame for mean[31] init =[46]
+Nb Frame for mean[32] init =[67]
+Nb Frame for mean[33] init =[115]
+Nb Frame for mean[34] init =[119]
+Nb Frame for mean[35] init =[129]
+Nb Frame for mean[36] init =[100]
+Nb Frame for mean[37] init =[85]
+Nb Frame for mean[38] init =[57]
+Nb Frame for mean[39] init =[118]
+Nb Frame for mean[40] init =[103]
+Nb Frame for mean[41] init =[108]
+Nb Frame for mean[42] init =[96]
+Nb Frame for mean[43] init =[94]
+Nb Frame for mean[44] init =[75]
+Nb Frame for mean[45] init =[64]
+Nb Frame for mean[46] init =[44]
+Nb Frame for mean[47] init =[68]
+Nb Frame for mean[48] init =[100]
+Nb Frame for mean[49] init =[98]
+Nb Frame for mean[50] init =[120]
+Nb Frame for mean[51] init =[119]
+Nb Frame for mean[52] init =[126]
+Nb Frame for mean[53] init =[108]
+Nb Frame for mean[54] init =[126]
+Nb Frame for mean[55] init =[119]
+Nb Frame for mean[56] init =[126]
+Nb Frame for mean[57] init =[122]
+Nb Frame for mean[58] init =[125]
+Nb Frame for mean[59] init =[93]
+Nb Frame for mean[60] init =[142]
+Nb Frame for mean[61] init =[81]
+Nb Frame for mean[62] init =[74]
+Nb Frame for mean[63] init =[69]
+Training parameters 
+nb training iterations:5
+init variance floor:0.01 final floor:0.01
+init variance ceil:10 final ceil:10
+normaliseModel on
+baggedMinimalLength[3] MaximalLength[10]
+LLK Initial model= -106.083
+Train it[0], Variance floor[0.01] ceiling[10]
+total frames with stream weighting[451814] total frame to select [135544]
+Stream[0] Bagged=0.3
+Bagged segments, Initial frames[451814] Selected frames[134831] % selected[29.8421]
+(AccumulateStatEM) Threaded version of EM with 4 threads
+(AccumulateStatEM) Creating thread n[0]
+(AccumulateStatEM) Creating thread n[1]
+(AccumulateStatEM) Creating thread n[2]
+(AccumulateStatEM) Creating thread n[3]
+(AccumulateStatEM) Computing on thread
+Thread:0Thread:2 broke broke
+
+Thread:1 broke
+(AccumulateStatEM) Completed join with thread [0] status[0]
+(AccumulateStatEM) Completed join with thread [1] status[0]
+(AccumulateStatEM) Completed join with thread [2] status[0]
+(AccumulateStatEM) Completed join with thread [3] status[0]
+(AccumulateStatEM) Fuse EM Accs 
+Number of frames treated by thread [0]=33680
+Number of frames treated by thread [1]=33582
+Number of frames treated by thread [2]=33759
+Number of frames treated by thread [3]=33810
+Total Number of frames in threads: 134831
+ total variance flooring = 0 ceiling = 0
+Partial Train it[0] (take care, it corresponds to the previous it,0 means init likelihood) =-106.031 Nb Frames=134831
+Train it[1], Variance floor[0.01] ceiling[10]
+total frames with stream weighting[451814] total frame to select [135544]
+Stream[0] Bagged=0.3
+Bagged segments, Initial frames[451814] Selected frames[134427] % selected[29.7527]
+(AccumulateStatEM) Threaded version of EM with 4 threads
+(AccumulateStatEM) Creating thread n[0]
+(AccumulateStatEM) Creating thread n[1]
+(AccumulateStatEM) Creating thread n[2]
+(AccumulateStatEM) Creating thread n[3]
+(AccumulateStatEM) Computing on thread
+Thread:0 broke
+(AccumulateStatEM) Completed join with thread [0] status[0]
+(AccumulateStatEM) Completed join with thread [1] status[0]
+(AccumulateStatEM) Completed join with thread [2] status[0]
+(AccumulateStatEM) Completed join with thread [3] status[0]
+(AccumulateStatEM) Fuse EM Accs 
+Number of frames treated by thread [0]=33239
+Number of frames treated by thread [1]=33574
+Number of frames treated by thread [2]=33751
+Number of frames treated by thread [3]=33863
+Total Number of frames in threads: 134427
+ total variance flooring = 0 ceiling = 0
+Partial Train it[1] (take care, it corresponds to the previous it,0 means init likelihood) =-104.341 Nb Frames=134427
+Train it[2], Variance floor[0.01] ceiling[10]
+total frames with stream weighting[451814] total frame to select [135544]
+Stream[0] Bagged=0.3
+Bagged segments, Initial frames[451814] Selected frames[135133] % selected[29.909]
+(AccumulateStatEM) Threaded version of EM with 4 threads
+(AccumulateStatEM) Creating thread n[0]
+(AccumulateStatEM) Creating thread n[1]
+(AccumulateStatEM) Creating thread n[2]
+(AccumulateStatEM) Creating thread n[3]
+(AccumulateStatEM) Computing on thread
+Thread:3 broke
+(AccumulateStatEM) Completed join with thread [0] status[0]
+(AccumulateStatEM) Completed join with thread [1] status[0]
+(AccumulateStatEM) Completed join with thread [2] status[0]
+(AccumulateStatEM) Completed join with thread [3] status[0]
+(AccumulateStatEM) Fuse EM Accs 
+Number of frames treated by thread [0]=33751
+Number of frames treated by thread [1]=33856
+Number of frames treated by thread [2]=33626
+Number of frames treated by thread [3]=33900
+Total Number of frames in threads: 135133
+ total variance flooring = 0 ceiling = 0
+Partial Train it[2] (take care, it corresponds to the previous it,0 means init likelihood) =-102.508 Nb Frames=135133
+Train it[3], Variance floor[0.01] ceiling[10]
+total frames with stream weighting[451814] total frame to select [135544]
+Stream[0] Bagged=0.3
+Bagged segments, Initial frames[451814] Selected frames[134017] % selected[29.662]
+(AccumulateStatEM) Threaded version of EM with 4 threads
+(AccumulateStatEM) Creating thread n[0]
+(AccumulateStatEM) Creating thread n[1]
+(AccumulateStatEM) Creating thread n[2]
+(AccumulateStatEM) Creating thread n[3]
+(AccumulateStatEM) Computing on thread
+Thread:0 broke
+(AccumulateStatEM) Completed join with thread [0] status[0]
+(AccumulateStatEM) Completed join with thread [1] status[0]
+(AccumulateStatEM) Completed join with thread [2] status[0]
+(AccumulateStatEM) Completed join with thread [3] status[0]
+(AccumulateStatEM) Fuse EM Accs 
+Number of frames treated by thread [0]=33553
+Number of frames treated by thread [1]=33666
+Number of frames treated by thread [2]=33553
+Number of frames treated by thread [3]=33245
+Total Number of frames in threads: 134017
+ total variance flooring = 0 ceiling = 0
+Partial Train it[3] (take care, it corresponds to the previous it,0 means init likelihood) =-101.933 Nb Frames=134017
+Train it[4], Variance floor[0.01] ceiling[10]
+total frames with stream weighting[451814] total frame to select [135544]
+Stream[0] Bagged=0.3
+Bagged segments, Initial frames[451814] Selected frames[135770] % selected[30.05]
+(AccumulateStatEM) Threaded version of EM with 4 threads
+(AccumulateStatEM) Creating thread n[0]
+(AccumulateStatEM) Creating thread n[1]
+(AccumulateStatEM) Creating thread n[2]
+(AccumulateStatEM) Creating thread n[3]
+(AccumulateStatEM) Computing on thread
+Thread:0 broke
+Thread:1 broke
+(AccumulateStatEM) Completed join with thread [0] status[0]
+(AccumulateStatEM) Completed join with thread [1] status[0]
+(AccumulateStatEM) Completed join with thread [2] status[0]
+(AccumulateStatEM) Completed join with thread [3] status[0]
+(AccumulateStatEM) Fuse EM Accs 
+Number of frames treated by thread [0]=33947
+Number of frames treated by thread [1]=33947
+Number of frames treated by thread [2]=33661
+Number of frames treated by thread [3]=34215
+Total Number of frames in threads: 135770
+ total variance flooring = 0 ceiling = 0
+Partial Train it[4] (take care, it corresponds to the previous it,0 means init likelihood) =-101.614 Nb Frames=135770
+ Final ll world = -101.395
+Save world model [world_75_2]
